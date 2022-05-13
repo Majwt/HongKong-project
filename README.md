@@ -1,5 +1,2 @@
-# HongKong-project
 
-Github pages för projektet
-
-## Här kommer den senaste av sidan vara hostad
+# OUTDATED ny address https://github.com/welcome-hongkong/HongKongWeb/
